@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://x.com/Zen_0512" target="blank"><img src="https://img.shields.io/twitter/follow/Zen_0512?logo=x&style=for-the-badge" alt="Zen_0512" /></a> </p>
 
-- 🔭 I’m currently working on my own **Medical AI Web App**
-
-- 🌱 I’m currently learning **ROS 2 and other languages**
+- 🌱 I’m currently learning **Different Types of languages**
 
 - 👯 I’m looking to collaborate on **different types of projects**
 
