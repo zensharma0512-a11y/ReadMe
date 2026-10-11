@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-label="Aryan's GitHub stats: 0 stars, 1 commits, 2 contributions in the last year, 1 followers, 1 public repos">
+<rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="#ffffff" stroke="#d0d7de"/>
+<text x="25" y="38" font-size="18" font-weight="600" fill="#0969da">Aryan's GitHub Stats</text>
+<g transform="translate(25 58)" fill="none" stroke="#0969da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M8 1.5l1.9 4.1 4.4.5-3.3 3 .9 4.4L8 11.3l-3.9 2.2.9-4.4-3.3-3 4.4-.5z"/></g>
+<text x="50" y="70" font-size="14" font-weight="600" fill="#24292f">Total Stars:</text>
+<text x="255" y="70" font-size="14" font-weight="700" fill="#24292f">0</text>
+<g transform="translate(25 83)" fill="none" stroke="#0969da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M1 8h14"/><circle cx="8" cy="8" r="3" fill="#ffffff"/></g>
+<text x="50" y="95" font-size="14" font-weight="600" fill="#24292f">Total Commits:</text>
+<text x="255" y="95" font-size="14" font-weight="700" fill="#24292f">1</text>
+<g transform="translate(25 108)" fill="none" stroke="#0969da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><rect x="1.5" y="2.5" width="13" height="12" rx="2"/><path d="M1.5 6.5h13M5 1v3M11 1v3"/></g>
+<text x="50" y="120" font-size="14" font-weight="600" fill="#24292f">Contributions (last year):</text>
+<text x="255" y="120" font-size="14" font-weight="700" fill="#24292f">2</text>
+<g transform="translate(25 133)" fill="none" stroke="#0969da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><circle cx="6" cy="5" r="2.5"/><path d="M1.5 14c0-2.6 2-4.5 4.5-4.5s4.5 1.9 4.5 4.5"/><path d="M10.5 2.8a2.3 2.3 0 0 1 0 4.4M12.5 9.8c1.3.7 2 2.2 2 4.2"/></g>
+<text x="50" y="145" font-size="14" font-weight="600" fill="#24292f">Followers:</text>
+<text x="255" y="145" font-size="14" font-weight="700" fill="#24292f">1</text>
+<g transform="translate(25 158)" fill="none" stroke="#0969da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M3 13.5V3a1.5 1.5 0 0 1 1.5-1.5H13v10H4.5A1.5 1.5 0 0 0 3 13a1.5 1.5 0 0 0 1.5 1.5H13"/></g>
+<text x="50" y="170" font-size="14" font-weight="600" fill="#24292f">Public Repos:</text>
+<text x="255" y="170" font-size="14" font-weight="700" fill="#24292f">1</text>
+<circle cx="405" cy="105" r="48" fill="none" stroke="#eaeef2" stroke-width="6"/>
+<circle cx="405" cy="105" r="48" fill="none" stroke="#0969da" stroke-width="6" stroke-opacity="0.85"/>
+<g fill="none" stroke="#0969da" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M405 87v-7"/><circle cx="405" cy="78" r="2.5" fill="#0969da"/><rect x="388" y="94" width="34" height="28" rx="7"/><path d="M383 105v6M427 105v6"/><path d="M398 115h14"/></g><circle cx="398" cy="106" r="3" fill="#0969da"/><circle cx="412" cy="106" r="3" fill="#0969da"/>
+</svg>

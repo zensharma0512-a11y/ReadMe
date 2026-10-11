@@ -1,4 +1,4 @@
-name: Update profile card
+name: Update profile stats cards
 
 on:
   schedule:
@@ -7,14 +7,13 @@ on:
   push:
     paths:
       - "card/generate.py"
-      - "card/art.txt"
       - ".github/workflows/card.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: profile-card-${{ github.ref }}
+  group: profile-cards-${{ github.ref }}
 
 jobs:
   update:
@@ -22,21 +21,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build card from live GitHub stats
+      - name: Build cards from live GitHub stats
         env:
           # Optional: add a CARD_TOKEN secret (personal access token) to count
           # private repos too. Without it, public stats are used.
           GITHUB_TOKEN: ${{ secrets.CARD_TOKEN || secrets.GITHUB_TOKEN }}
         run: python3 card/generate.py
 
-      - name: Commit the updated card
+      - name: Commit the updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add card/dark.svg card/light.svg
+          git add card/*.svg
           if git diff --cached --quiet; then
-            echo "Card unchanged"
+            echo "Cards unchanged"
           else
-            git commit -m "Update profile card"
+            git commit -m "Update profile stats cards"
             git push origin "HEAD:${{ github.ref_name }}"
           fi

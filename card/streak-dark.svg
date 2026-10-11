@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-label="Aryan's contribution streak: 2 total contributions, current streak 0 days, longest streak 2 days">
+<rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="#0d1117" stroke="#30363d"/>
+<line x1="165" y1="28" x2="165" y2="168" stroke="#30363d"/>
+<line x1="330" y1="28" x2="330" y2="168" stroke="#30363d"/>
+<text x="82.5" y="84" text-anchor="middle" font-size="28" font-weight="700" fill="#c9d1d9">2</text><text x="82.5" y="118" text-anchor="middle" font-size="14" fill="#c9d1d9">Total Contributions</text><text x="82.5" y="146" text-anchor="middle" font-size="12" fill="#8b949e">Aug 28, 2025 - Present</text>
+<text x="412.5" y="84" text-anchor="middle" font-size="28" font-weight="700" fill="#c9d1d9">2</text><text x="412.5" y="118" text-anchor="middle" font-size="14" fill="#c9d1d9">Longest Streak</text><text x="412.5" y="146" text-anchor="middle" font-size="12" fill="#8b949e">Feb 6 - Feb 7</text>
+<circle cx="247.5" cy="71" r="40" fill="none" stroke="#fb8c00" stroke-width="5"/>
+<circle cx="247.5" cy="29" r="13" fill="#0d1117"/>
+<path transform="translate(247.5 29)" fill="#fb8c00" d="M0 -12C3 -7 9 -3 8 4C7 9 3 11 0 11C-4 11 -8 8 -8 3C-8 -1 -5 -3 -4 -6C-3 -3 -2 -2 -1 -2C-1 -6 -2 -9 0 -12Z"/>
+<text x="247.5" y="81" text-anchor="middle" font-size="28" font-weight="700" fill="#c9d1d9">0</text>
+<text x="247.5" y="140" text-anchor="middle" font-size="14" font-weight="700" fill="#fb8c00">Current Streak</text>
+<text x="247.5" y="166" text-anchor="middle" font-size="12" fill="#8b949e">Oct 12</text>
+</svg>
