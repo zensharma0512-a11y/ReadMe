@@ -136,7 +136,7 @@ def streaks(days, today):
     end, length = day, 0
     while counts.get(day, 0) > 0:
         length, day = length + 1, day - dt.timedelta(days=1)
-    current = (length, day + dt.timedelta(days=1), end) if length else (0, last, last)
+    current = (length, day + dt.timedelta(days=1), end) if length else (0, today, today)
 
     best, run_start, run = (0, None, None), None, 0
     for d in sorted(counts):
@@ -148,6 +148,10 @@ def streaks(days, today):
         else:
             run = 0
     return total, current, best
+
+
+def plural(n, word):
+    return f"{n:,} {word}{'' if n == 1 else 's'}"
 
 
 def fmt_day(d, today):
@@ -214,9 +218,9 @@ def stats_card(theme, data):
     body.append(f'<circle cx="{cx}" cy="{cy}" r="48" fill="none" stroke="{t["track"]}" stroke-width="6"/>')
     body.append(f'<circle cx="{cx}" cy="{cy}" r="48" fill="none" stroke="{t["icon"]}" stroke-width="6" stroke-opacity="0.85"/>')
     body.append(robot(cx, cy + 4, t["icon"]))
-    label = (f"{NAME}'s GitHub stats: {data['stars']} stars, {data['commits']} commits, "
-             f"{data['contributions_year']} contributions in the last year, {data['followers']} followers, "
-             f"{data['repos']} public repos")
+    label = (f"{NAME}'s GitHub stats: {plural(data['stars'], 'star')}, {plural(data['commits'], 'commit')}, "
+             f"{plural(data['contributions_year'], 'contribution')} in the last year, "
+             f"{plural(data['followers'], 'follower')}, {plural(data['repos'], 'public repo')}")
     return frame(t, label, "\n".join(body))
 
 
@@ -246,8 +250,8 @@ def streak_card(theme, data, today):
         f'<text x="{cx}" y="140" text-anchor="middle" font-size="14" font-weight="700" fill="{t["accent"]}">Current Streak</text>',
         f'<text x="{cx}" y="166" text-anchor="middle" font-size="12" fill="{t["muted"]}">{escape(fmt_range(cur_a, cur_b, today))}</text>',
     ]
-    label = (f"{NAME}'s contribution streak: {total} total contributions, current streak {cur} days, "
-             f"longest streak {best} days")
+    label = (f"{NAME}'s contribution streak: {plural(total, 'total contribution')}, "
+             f"current streak {plural(cur, 'day')}, longest streak {plural(best, 'day')}")
     return frame(t, label, "\n".join(body))
 
 
