@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-label="Aryan's GitHub stats: 0 stars, 1 commits, 2 contributions in the last year, 1 followers, 1 public repos">
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-label="Aryan's GitHub stats: 0 stars, 1 commit, 2 contributions in the last year, 1 follower, 1 public repo">
 <rect x="0.5" y="0.5" width="494" height="194" rx="6" fill="#ffffff" stroke="#d0d7de"/>
 <text x="25" y="38" font-size="18" font-weight="600" fill="#0969da">Aryan's GitHub Stats</text>
 <g transform="translate(25 58)" fill="none" stroke="#0969da" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"><path d="M8 1.5l1.9 4.1 4.4.5-3.3 3 .9 4.4L8 11.3l-3.9 2.2.9-4.4-3.3-3 4.4-.5z"/></g>
