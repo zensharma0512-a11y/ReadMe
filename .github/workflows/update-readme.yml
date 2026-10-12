@@ -1,0 +1,52 @@
+name: Update README
+
+# Refreshes the "What I'm working on" and "Recent GitHub activity" sections.
+# The updater script lives in the Automate repo, so there is one copy to maintain;
+# it runs here so it can push with this repo's built-in token.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *" # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Get the updater from the Automate repo
+        uses: actions/checkout@v5
+        with:
+          repository: ${{ github.repository_owner }}/Automate
+          path: .automate
+
+      - name: Refresh README sections
+        run: python3 .automate/scripts/update_readme.py README.md
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Push the update
+        run: |
+          if git diff --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Refresh projects and activity"
+          for attempt in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            sleep $((attempt * 5))
+          done
+          exit 1
