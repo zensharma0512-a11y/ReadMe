@@ -40,7 +40,6 @@
 <!-- PROJECTS:START -->
 
 - **[Zenify](https://github.com/zensharma0512-a11y/Zenify)** — Snap a photo of your meal. An AI vision model identifies each food, estimates the grams, matches it against a built-in database of 348 Indian and world foods and drinks, and logs calories, protein, carbs, fat, fibre, sugar and sodium
-- **[Automate](https://github.com/zensharma0512-a11y/Automate)** · `Python`
 
 <!-- PROJECTS:END -->
 
