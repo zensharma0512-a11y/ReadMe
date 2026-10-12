@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
 <h3 align="center">A passionate developer building AI and exploring robotics</h3>
 
+<p align="left">I'm a Third-year BTech student in Robotics & AI at Manipal University Jaipur. I work at the intersection of robotics, computer vision, and embedded systems, with a focus on building systems that connect physical interaction with real-time software intelligence.</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zensharma0512-a11y" alt="zensharma0512-a11y" /></a> </p>
 
 <p align="left"> <a href="https://x.com/Zen_0512" target="blank"><img src="https://img.shields.io/twitter/follow/Zen_0512?logo=x&style=for-the-badge" alt="Zen_0512" /></a> </p>
