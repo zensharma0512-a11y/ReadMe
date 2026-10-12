@@ -19,6 +19,24 @@
 
 - 📫 Reach me on LinkedIn : https://www.linkedin.com/in/aryansharma0512/
 
+<h3 align="left">🚀 What I'm working on</h3>
+
+<!-- PROJECTS:START -->
+
+- **[Automate](https://github.com/zensharma0512-a11y/Automate)** · `Python`
+
+<!-- PROJECTS:END -->
+
+<h3 align="left">⚡ Recent GitHub activity</h3>
+
+<!-- ACTIVITY:START -->
+
+- ✅ Merged PR [#1](https://github.com/zensharma0512-a11y/Automate/pull/1) in [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
+- ⬆️ Pushed to [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
+- 🔀 Opened PR [#1](https://github.com/zensharma0512-a11y/Automate/pull/1) in [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
+
+<!-- ACTIVITY:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Zen_0512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Zen_0512" height="30" width="40" /></a>
