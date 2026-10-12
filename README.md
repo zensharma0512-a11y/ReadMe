@@ -15,7 +15,7 @@
 
 - 💬 Ask me **anything**
 
-- 📫 How to reach me : zensharma0512@gmail.com@gmail.com
+- 📫 How to reach me : zensharma0512@gmail.com
 
 - 📫 Reach me on LinkedIn : https://www.linkedin.com/in/aryansharma0512/
 
