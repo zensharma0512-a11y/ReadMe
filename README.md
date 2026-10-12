@@ -19,13 +19,6 @@
 
 - 📫 Reach me on LinkedIn : https://www.linkedin.com/in/aryansharma0512/
 
-<h3 align="left">🚀 What I'm working on</h3>
-
-<!-- PROJECTS:START -->
-
-- **[Automate](https://github.com/zensharma0512-a11y/Automate)** · `Python`
-
-<!-- PROJECTS:END -->
 
 <h3 align="left">⚡ Recent GitHub activity</h3>
 
