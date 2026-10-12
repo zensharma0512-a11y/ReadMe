@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
-<h3 align="center">A passionate developer building AI for healthcare and exploring robotics</h3>
+<h3 align="center">A passionate developer building AI and exploring robotics</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zensharma0512-a11y" alt="zensharma0512-a11y" /></a> </p>
 
@@ -12,6 +12,10 @@
 - 👨‍💻 All of my projects are available on [my GitHub](https://github.com/zensharma0512-a11y?tab=repositories)
 
 - 💬 Ask me **anything**
+
+- 📫 How to reach me : zensharma0512@gmail.com@gmail.com
+
+- 📫 Reach me on LinkedIn : https://www.linkedin.com/in/aryansharma0512/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
