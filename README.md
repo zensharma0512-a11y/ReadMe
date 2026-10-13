@@ -24,14 +24,14 @@
 
 <!-- ACTIVITY:START -->
 
-- 🔀 Opened PR [#2](https://github.com/zensharma0512-a11y/Zenify/pull/2) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 12_
-- ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 12_
-- 🔀 Opened PR [#1](https://github.com/zensharma0512-a11y/Zenify/pull/1) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 12_
-- 🔀 Opened PR [#3532](https://github.com/cytoscape/cytoscape.js/pull/3532) in [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) — _Oct 12_
-- 🍴 Forked [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) — _Oct 12_
-- ✅ Merged PR [#2](https://github.com/zensharma0512-a11y/Automate/pull/2) in [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
-- 🔀 Opened PR [#2](https://github.com/zensharma0512-a11y/Automate/pull/2) in [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
-- ⬆️ Pushed to [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
+- 🔀 Opened PR [#9](https://github.com/zensharma0512-a11y/Zenify/pull/9) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
+- ✅ Merged PR [#8](https://github.com/zensharma0512-a11y/Zenify/pull/8) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
+- 🔀 Opened PR [#8](https://github.com/zensharma0512-a11y/Zenify/pull/8) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
+- ✅ Merged PR [#7](https://github.com/zensharma0512-a11y/Zenify/pull/7) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
+- ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
+- 🔀 Opened PR [#7](https://github.com/zensharma0512-a11y/Zenify/pull/7) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
+- ✅ Merged PR [#6](https://github.com/zensharma0512-a11y/Zenify/pull/6) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
+- 🔀 Opened PR [#6](https://github.com/zensharma0512-a11y/Zenify/pull/6) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
 
 <!-- ACTIVITY:END -->
 
@@ -39,7 +39,8 @@
 
 <!-- PROJECTS:START -->
 
-- **[Zenify](https://github.com/zensharma0512-a11y/Zenify)** — Snap a photo of your meal. An AI vision model identifies each food, estimates the grams, matches it against a built-in database of 348 Indian and world foods and drinks, and logs calories, protein, carbs, fat, fibre, sugar and sodium
+- **[Zenify](https://github.com/zensharma0512-a11y/Zenify)** — Snap a photo of your meal. An AI vision model identifies each food, estimates the grams, matches it against a built-in database of 348 Indian and world foods and drinks, and logs calories, protein, carbs, fat, fibre, sugar and sodium · `JavaScript`
+- **[Automate](https://github.com/zensharma0512-a11y/Automate)** · `Python`
 
 <!-- PROJECTS:END -->
 
