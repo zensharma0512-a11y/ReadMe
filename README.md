@@ -24,14 +24,14 @@
 
 <!-- ACTIVITY:START -->
 
+- ⬆️ Pushed to [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
+- ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
 - ✅ Merged PR [#14](https://github.com/zensharma0512-a11y/Zenify/pull/14) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
 - ✅ Merged PR [#15](https://github.com/zensharma0512-a11y/Zenify/pull/15) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
 - ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 12_
 - 🔀 Opened PR [#15](https://github.com/zensharma0512-a11y/Zenify/pull/15) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
 - ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
 - 🔀 Opened PR [#14](https://github.com/zensharma0512-a11y/Zenify/pull/14) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
-- ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
-- ✅ Merged PR [#13](https://github.com/zensharma0512-a11y/Zenify/pull/13) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
 
 <!-- ACTIVITY:END -->
 
