@@ -24,14 +24,14 @@
 
 <!-- ACTIVITY:START -->
 
-- ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
 - ⬆️ Pushed to [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
-- ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
-- ✅ Merged PR [#14](https://github.com/zensharma0512-a11y/Zenify/pull/14) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
-- ✅ Merged PR [#15](https://github.com/zensharma0512-a11y/Zenify/pull/15) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
-- ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 12_
-- 🔀 Opened PR [#15](https://github.com/zensharma0512-a11y/Zenify/pull/15) in [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
-- ⬆️ Pushed to [Zenify](https://github.com/zensharma0512-a11y/Zenify) — _Oct 13_
+- 🔀 Opened PR [#3](https://github.com/zensharma0512-a11y/Automate/pull/3) in [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 13_
+- ⬆️ Pushed to [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 13_
+- 🔀 Opened PR [#3532](https://github.com/cytoscape/cytoscape.js/pull/3532) in [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) — _Oct 12_
+- 🍴 Forked [cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) — _Oct 12_
+- ✅ Merged PR [#2](https://github.com/zensharma0512-a11y/Automate/pull/2) in [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
+- 🔀 Opened PR [#2](https://github.com/zensharma0512-a11y/Automate/pull/2) in [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
+- ⬆️ Pushed to [Automate](https://github.com/zensharma0512-a11y/Automate) — _Oct 12_
 
 <!-- ACTIVITY:END -->
 
@@ -39,7 +39,6 @@
 
 <!-- PROJECTS:START -->
 
-- **[Zenify](https://github.com/zensharma0512-a11y/Zenify)** — Snap a photo of your meal. An AI vision model identifies each food, estimates the grams, matches it against a built-in database of 348 Indian and world foods and drinks, and logs calories, protein, carbs, fat, fibre, sugar and sodium · `JavaScript`
 - **[Automate](https://github.com/zensharma0512-a11y/Automate)** · `Python`
 
 <!-- PROJECTS:END -->
